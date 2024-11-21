@@ -1,5 +1,5 @@
 👋 Olá, eu sou a @luanamoraisf! Bem-vind@ ao meu GitHub!
-Desenvolvedora apaixonada por tecnologia e aprendizado contínuo, com experiência em Vue.js, Laravel, Docker, e outras stacks modernas para desenvolvimento de software. Acredito que a programação transforma ideias em impacto real, e sempre estou em busca de contribuir para projetos que possam melhorar a vida das pessoas.
+Sou desenvolvedora apaixonada por tecnologia e aprendizado contínuo, com experiência em Vue.js, Laravel, Docker, e outras stacks modernas para desenvolvimento de software. Acredito que a programação transforma ideias em impacto real, e sempre estou em busca de contribuir para projetos que possam melhorar a vida das pessoas.
 
 
 🛠️ Tecnologias e Ferramentas
