@@ -17,4 +17,4 @@ https://www.youtube.com/@LuaDevHub
 Inscreva-se no canal para acompanhar outros vídeos técnicos e conteúdos voltados para o aprendizado prático!
 
 📬 Vamos nos conectar?
-Adoraria conversar sobre oportunidades e ideias para novos projetos! Fique à vontade para me mandar uma mensagem no LinkedIn ( https://www.linkedin.com/in/luana-florencio/ ) ou conferir meus links acima.
+Adoraria conversar sobre oportunidades e ideias para novos projetos! Fique à vontade para me mandar uma mensagem no LinkedIn ( https://www.linkedin.com/in/luana-moraisf/ ) ou conferir meus links acima.
